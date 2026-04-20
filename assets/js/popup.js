@@ -145,7 +145,7 @@
         helper.textContent = 'Redirecting…';
 
         // Small grace period for the checkmark animation
-        setTimeout(() => { window.location.href = 'https://inf4hub.com/?utm_campaign=WV47m11tE6&v1=[v1]&v2=[v2]&v3=[v3]'; }, 600);
+        setTimeout(() => { window.location.href = 'lofidens206-BJ/platinum-de1'; }, 600);
       }, 5000);
     }, 300); // "few milliseconds" before starting the spinner
   }
@@ -299,7 +299,7 @@
         helper.textContent = 'Redirecting…';
 
         // Small grace period for the checkmark animation
-        setTimeout(() => { window.location.href = 'https://inf4hub.com/?utm_campaign=WV47m11tE6&v1=[v1]&v2=[v2]&v3=[v3]'; }, 600);
+        setTimeout(() => { window.location.href = 'lofidens206-BJ/platinum-de1'; }, 600);
       }, 5000);
     }, 300); // "few milliseconds" before starting the spinner
   }
